@@ -133,7 +133,7 @@
 
 ### 服务配置
 
-所有服务均通过 `free_mcp_servers.json` 配置文件进行管理：
+所有服务均通过 `Academic_Free_MCP_Servers.json` 配置文件进行管理：
 
 ```json
 {
