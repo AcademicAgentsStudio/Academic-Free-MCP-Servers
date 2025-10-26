@@ -25,5 +25,14 @@
       },
       "description": "支持生成多种类型的图表并返回图表 url，包括：条形图、折线图、饼图、环状图、雷达图、极坐标区域图、散点图、气泡图、径向仪表图、速度表；可定制图表配置，包括：标签、数据和颜色。",
       "enabled": true
+    },
+    "FreeAcademicFormatter": {
+      "name": "学术智能体（Academic Agents）免费结果格式转换服务",
+      "url": "https://academicchart.freemcps.aiearth.vip/sse",
+      "headers": {
+        "Authorization": "Bearer aioagi.tech"
+      },
+      "description": "支持将外部工具的原始返回结果智能化转换为简洁的HTML格式。使用默认大模型进行格式化处理，同时还提供文本到Markdown格式的基础转换功能。主要用于优化返回内容在前端页面的可视化呈现效果。",
+      "enabled": true
     }
 }
